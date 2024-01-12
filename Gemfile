@@ -48,6 +48,7 @@ gem 'bootsnap', require: false
 
 # Authentication for users and admins
 gem 'devise'
+gem 'tty-spinner'
 
 gem 'rails-i18n', '~> 7.0.0'
 
